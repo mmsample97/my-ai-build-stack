@@ -5,8 +5,8 @@
 > Paid version, $15, ready setup kit: Same plan, PLUS the setup ready to use. Templates, checklists, and a review checklist. You do not start from zero.
 >
 > Get the paid version here:
-> - Agensi, $15: https://www.agensi.io/skills/my-ai-build-stack
-> - PromptBase, $14.99: https://promptbase.com/skill/myaibuildstack
+> - Agensi, $10: https://www.agensi.io/skills/my-ai-build-stack
+> - PromptBase, $9.99: https://promptbase.com/skill/myaibuildstack
 
 Set Up a New Project the Same Way Every Time, in Plain Words
 
