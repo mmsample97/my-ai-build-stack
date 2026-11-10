@@ -2,7 +2,7 @@
 
 > Free version, here: Check and plan only. It tells you how to set up a new project, you build it with your builder.
 >
-> Paid version, $15, ready setup kit: Same plan, PLUS the setup ready to use. Templates, checklists, and a review checklist. You do not start from zero.
+> Paid version, $10, ready setup kit: Same plan, PLUS the setup ready to use. Templates, checklists, and a review checklist. You do not start from zero.
 >
 > Get the paid version here:
 > - Agensi, $10: https://www.agensi.io/skills/my-ai-build-stack
